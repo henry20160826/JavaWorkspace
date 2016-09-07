@@ -1,0 +1,11 @@
+
+**** Build of configuration Default for project c ****
+
+make all 
+
+Cannot run program "make": Launching failed
+Error: Program "make" is not found in PATH
+
+PATH=[D:/Program Files/Java/jdk1.8.0_60/bin/server;D:/Program Files/Java/jdk1.8.0_60/bin;D:/Program Files/Java/jdk1.8.0_60/lib/amd64;D:\Program Files\Java\jdk1.8.0_60\bin;C:\ProgramData\Oracle\Java\javapath;D:\Python34\;D:\Python34\Scripts;C:\windows\system32;C:\windows;C:\windows\System32\Wbem;C:\windows\System32\WindowsPowerShell\v1.0\;C:\Program Files (x86)\NVIDIA Corporation\PhysX\Common;D:\Program Files\MinGW;D:\Program Files\adt-bundle-windows\eclipse;]
+
+**** Build Finished ****
